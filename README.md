@@ -5,7 +5,7 @@ tipsy is a tip calculator application for iOS.
 
 Submitted by: Can Algan
 
-Time spent: 3 hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
